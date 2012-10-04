@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h2>最新文章</h2>
+<ul>
+{% for post in site.posts limit:5 %}
+<li>{{ post.date | date: "%Y年%m月%d日" }} &raquo; <a href="{{ site.production_url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+<h3><a href="{{ site.production_url }}/archive.html">更多</a></h3>
