@@ -1,5 +1,6 @@
 ---
 layout: page
+resume: 1
 ---
 <div class="index-artical">
     <ul class="index-left">

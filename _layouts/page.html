@@ -1,10 +1,11 @@
 ---
-layout:           default
+layout:   default
+resume: 1
 ---
 <div id="head">
     <div class='logo'>
         <a href="{{ site.production_url }}" title="{{ site.title }}"><img src="{{ site.author.avatar }}" alt="{{ site.title }}" /></a>
-        {% if site.resume %}<a href="{{ site.production_url }}/resume/yanguanglan-resume.pdf" target="_blank">求职_Hire me</a>{% endif %}
+        {% if page.resume %}<a href="{{ site.production_url }}/resume/yanguanglan-resume.pdf" target="_blank">求职_Hire me</a>{% endif %}
     </div>
 </div>
 

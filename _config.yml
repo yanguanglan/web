@@ -10,7 +10,6 @@ description: "蓝燕光_YanguangLan 主页, 博客, 关于, 项目"
 domain: lanyg.com
 baseurl: /
 production_url: http://lanyg.com
-resume: 1
 
 author :
   name : "蓝燕光_YanguangLan"
