@@ -13,5 +13,5 @@ resume: 1
         </li>
     {% endfor %}
     </ul>
-    <a href="{{ site.production_url }}/archive.html">(more articles)</a>
 </div>
+ <a href="{{ site.production_url }}/archive.html">(more articles)</a>
