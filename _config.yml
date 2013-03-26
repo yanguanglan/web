@@ -1,0 +1,22 @@
+auto:	          true
+
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+permalink:        /:title
+
+title: "蓝燕光_YanguangLan"
+description: "蓝燕光_YanguangLan 主页, 博客, 关于, 项目"
+domain: lanyg.com
+baseurl: /
+production_url: http://lanyg.com
+
+author :
+  name : "蓝燕光_YanguangLan"
+  email : lanyg.com[at]gmail.com
+  github : yanguanglan
+  avatar: http://www.gravatar.com/avatar/ad0fd0749f43f53f8be2cc2143da7d1f?s=80&d=mm&r=g
+
+disqus :
+  short_name : yanguanglan
+
