@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="index-artical">
     <ul class="index-left">
-    {% for post in site.categories.blog %}
+    {% for post in site.categories.blog limit 5%}
         <li>
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
@@ -12,4 +12,5 @@ layout: page
         </li>
     {% endfor %}
     </ul>
+    <a href="{{ site.production_url }}/archive.html">(more articles)</a>
 </div>
