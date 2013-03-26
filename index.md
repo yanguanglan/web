@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="index-artical">
     <ul class="index-left">
-    {% for post in site.categories.blog limit:5 %}
+    {% for post in site.categories.blog limit:3 %}
         <li>
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
