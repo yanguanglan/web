@@ -101,7 +101,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-artical h2{font-size:20px;}
 .index-artical h2 a{color:#444}
 .index-artical h2 a:hover {color:#1570a6;text-decoration:none;}
-.index-artical li{margin-bottom:45px; color: #1570a6}
+.index-artical li{margin-bottom:45px;}
 .title-desc {color:#aaa;font-style:italic;font-size:14px;display:block;text-align:left;margin-top:-20px;}
 
 /***************Wiki Style*****************/
@@ -116,7 +116,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .about-link a {margin-right:10px;font-weight:bold;font-style:italic;font-size:13px;color:#E50053}
 /**************目录导航**************/
 #menuIndex {position:fixed;top:60px;right:20px;width:200px;overflow:auto}
-#menuIndex a {display:block; color: #083047}
+#menuIndex a {display:block; color: #E50053}
 #menuIndex a:hover {text-decoration:none;}
 #menuIndex ul li{font-size:12px;margin-bottom:5px;word-wrap:break-word;padding-left:10px;}
 #menuIndex ul li.on{background-color:#eee}
