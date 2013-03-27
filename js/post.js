@@ -83,6 +83,7 @@ $(document).ready(function(){
             $('body').append('<div id="menuIndex"></div>');
             $('#menuIndex').append($(tmpl)).delegate('a','click',function(e){
                 e.preventDefault();
+                alert(11);
                 var scrollNum = $(this).attr('data-top') || $('#'+$(this).attr('data-id')).offset().top;
                 //window.scrollTo(0,scrollNum-30);
                 $('body','html').animate({ scrollTop: scrollNum-30 }, 400, 'swing');
