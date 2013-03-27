@@ -84,9 +84,8 @@ $(document).ready(function(){
             $('#menuIndex').append($(tmpl)).delegate('a','click',function(e){
                 e.preventDefault();
                 var scrollNum = $(this).attr('data-top') || $('#'+$(this).attr('data-id')).offset().top;
-                //window.scrollTo(0,scrollNum-30);
-                alert(scrollNum);
-                $('body').animate({ scrollTop: scrollNum-30 }, 400, 'swing');
+                window.scrollTo(0,scrollNum-30);
+                //$('body').animate({ scrollTop: scrollNum-30 }, 400, 'swing');
             })
 
             $(window).load(function(){
