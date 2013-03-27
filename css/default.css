@@ -137,7 +137,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
 @media screen and (max-width: 480px){
     body {font-size:14px}
-    #head {height:25px;}
+    #head {height:80px;}
     #head .logo{font-size:22px;padding-left:8px;text-align:center;}
     #content {width:95%;margin:0 auto;}
 
