@@ -152,7 +152,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .entry pre ol li{margin-bottom:0;line-height:1em;}
     .entry pre code{line-height:1em;font-size:12px;}
     
-    .index-artical ul {display:block;margin:0 auto;width:95%;}
+    .index-artical{width:95%;}
+    .index-artical ul {display:block;margin:0 auto;}
     .index-artical .index-mid {display:none;}
     .index-artical .index-left {padding:0;}
     .index-artical .index-right {padding:0;}
