@@ -73,7 +73,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 #content {width:650px;margin:0 auto;min-height:400px;height:auto !important;height:400px;}
 
 /***************header style************/
-#head .logo {font-size:30px;font-weight:bold;margin-top:18px;padding-left:20px;text-align: center;}
+#head .logo {font-size:30px;font-weight:bold;margin-top:18px;padding-left:20px;}
 #head .logo a{color:#999;}
 #head .logo a:hover {text-decoration:none;color:#666;}
 #head .logo a:active {position:relative;top:1px;opacity:0.9;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=90)";filter:alpha(opacity=90);}
