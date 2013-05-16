@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 六个可以让你变得更
+title: 六个可以让你变得更强大的残酷事实
 description: 社会就是需求社会，如果你给不了需求，那就是残酷的事实。
 category: blog
 ---
