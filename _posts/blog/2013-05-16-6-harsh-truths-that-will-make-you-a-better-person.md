@@ -56,10 +56,11 @@ category: blog
 
 【原文此处引用了一段视频。国内看不了Youtube。可以翻墙且听力没问题的可以此处看：[Youtube地址](http://www.douban.com/link2?url=http%3A//www.youtube.com/watch%3Ffeature%3Dplayer_embedded%26v%3D8kZg_ALxEz0)。】
 
-<div style="text-algin:center;">
+<p>
+<div style="text-align:center;">
 <embed src="http://player.youku.com/player.php/sid/XNTQ3MjY4OTA4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 </div>
-
+</p>
 
 对于那些无法看视频的读者，这是一段著名的影院神片Glengarry Glenn Ross里Alec Baldwin的演讲。Baldwin的角色——你会假设是反角——对一屋子的销售员疯狂施压，警告他们说他们都会被解雇，除非他们可以搞定他们手上的单子。
 
