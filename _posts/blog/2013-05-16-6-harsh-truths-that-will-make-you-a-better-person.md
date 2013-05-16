@@ -17,7 +17,9 @@ category: blog
 对于其余的人来说，我希望你做一件事情：说出5件你引以为豪的事情。写在纸上也好，或者喊出来也好都可以。但这里有一个条件：你不可以列出你“是”怎样的人（比如，我是一个温柔的人，我很诚实），只能列出你“做”的事情（比如，我刚获得了全国象棋冠军，我做的chili是全麻省最好的）。如果你发现很难列出五件事情，这篇文章就是为你所写的。而且你他x娘de肯定一边听一边心里会不舒服。我的感受是，如果有人在1995年的时候跟我讲这些事情就好了。
 
 #6：这个世界只关心你能给予什么
+
 ![The World Only Cares About What It Can Get from You](http://i.crackedcdn.com/phpimages/article/6/8/0/157680.jpg?v=2)
+
 我们假设一下你最爱的亲人在大街上被枪击了。TA一边失血一边尖叫。一个路人冲上来说“让一下”。他仔细检查了伤口并拿出一把小刀准备在大街上动手术取出子弹。 
 
 ![OK, which one is the injured one?](http://i.crackedcdn.com/phpimages/article/6/8/8/157688.jpg?v=1)
@@ -212,7 +214,7 @@ category: blog
 
 不要成为上述的那种人。如果你是那种人，请不要继续成为那样的人。这正是人们为什么不喜欢你的原因，这正是你恨自己的原因。 
 
-![What are you going to do with it? Hunt witches or kick off the Olympics?]()http://i.crackedcdn.com/phpimages/article/6/8/5/157685.jpg?v=1
+![What are you going to do with it? Hunt witches or kick off the Olympics?](http://i.crackedcdn.com/phpimages/article/6/8/5/157685.jpg?v=1)
 
 所以，我有个建议：给自己定一个期限，2013年底，或者从你读本文之后的一年。当别人跟你说“我的新年计划是减肥15磅”的时候，我说咱们应该努力去做任何一件事情——学习新的技能直到足够有用为止，或者随便选一件事情：学空手道，学跳舞，学陶艺，做一个鸟屋，学习按摩，学一门语言，甚至拍一部A pian，做蝙蝠侠打击犯罪…… 
 
