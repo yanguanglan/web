@@ -16,7 +16,7 @@ category: blog
 
 对于其余的人来说，我希望你做一件事情：说出5件你引以为豪的事情。写在纸上也好，或者喊出来也好都可以。但这里有一个条件：你不可以列出你“是”怎样的人（比如，我是一个温柔的人，我很诚实），只能列出你“做”的事情（比如，我刚获得了全国象棋冠军，我做的chili是全麻省最好的）。如果你发现很难列出五件事情，这篇文章就是为你所写的。而且你他x娘de肯定一边听一边心里会不舒服。我的感受是，如果有人在1995年的时候跟我讲这些事情就好了。
 
-## 6：这个世界只关心你能给予什么
+##这个世界只关心你能给予什么
 
 ![The World Only Cares About What It Can Get from You](http://i.crackedcdn.com/phpimages/article/6/8/0/157680.jpg?v=2)
 
@@ -50,7 +50,7 @@ category: blog
 
 否则的话…… 
 
-## 5：别去相信嬉皮士的话 (Hippies are wrong) 
+##别去相信嬉皮士的话 (Hippies are wrong) 
 
 ![The Hippies Were Wrong](http://i.crackedcdn.com/phpimages/article/6/7/5/157675.jpg?v=1)
 
@@ -89,7 +89,7 @@ category: blog
 
 如果你抗议说，我不是肤浅的物质主义者，金钱不是万能的，我只能说：我有说过金钱吗？说明你没看懂我的要点。 
 
-## 4：你所做的事情不一定要换成钱，但一定要有益于他人 
+##你所做的事情不一定要换成钱，但一定要有益于他人 
 
 ![What You Produce Does Not Have to Make Money, But It Does Have to Benefit People](http://i.crackedcdn.com/phpimages/article/6/7/3/157673_v1.jpg)
 
@@ -115,7 +115,7 @@ category: blog
 
 这就是为什么你可以做一个好人但仍然觉得自己是loser。
 
-## 3：你恨自己是因为你无所作为 
+##你恨自己是因为你无所作为 
 
 !["So, what, you're saying that I should pick up a book on how to get girls?"](http://i.crackedcdn.com/phpimages/article/1/2/9/159129.jpg?v=2)
 
@@ -146,7 +146,7 @@ category: blog
 
 如果你听到这里听不下去了，并且用你从小听到大的陈词滥调回应说：“人的内在才是最重要的”，那么我只能说……（接下文） 
 
-## 2：你的内在只有通过所做的事情才能表现出来
+##你的内在只有通过所做的事情才能表现出来
 
 ![What You Are Inside Only Matters Because of What It Makes You Do](http://i.crackedcdn.com/phpimages/article/6/7/4/157674_v1.jpg)
 
@@ -176,7 +176,7 @@ category: blog
 
 对以上这些话无动于衷的人，就如同电影里对Baldwin无动于衷的业务员一样。（未完） 
 
-## 1： 人的内心其实一直在拒斥进步 
+##人的内心其实一直在拒斥进步 
 
 ![Everything Inside You Will Fight Improvement](http://i.crackedcdn.com/phpimages/article/6/7/6/157676_v1.jpg)
 
@@ -184,23 +184,23 @@ category: blog
 
 所以，到现在，你们中的许多人一边读这篇文章，一边会感觉到大脑在不断提供排斥这篇文章的理由。从经验上说，这些想法通常是： 
 
-*有意将任何批评理解为侮辱e
+* 有意将任何批评理解为侮辱e
 “他凭什么说我又懒又没用？一个善良的人从来不会这样对我说话！作者写这些东西只不过是想显示自己有多么优越，让我这个loser对自己生活不满罢了！等我回复更损人的话给你！” 
 
 ![When you get to where I am in life, you feel free to give me advice! Until then, you're nothing but meat and guesses."](http://i.crackedcdn.com/phpimages/article/6/8/2/157682_v1.jpg)
 
-*对人不对事e 
+* 对人不对事e 
 “这人有什么资格告诉我怎么活？他自以为自己了不起吧？不过是网上的一个白痴写手罢了！我要去人肉他，看他有什么丑事可以抖出来。这人真自以为是，让我作呕” 
 
-*只看语气，不看内容e 
+* 只看语气，不看内容e 
 “我会仔细看你的文章，找出一句话，断章取义只讨论那个。” 
 
-*不断修饰你的过去e 
+* 不断修饰你的过去e 
 “事情没那么糟糕。确实我上个月还想自杀呢，但现在我感觉好多了！也许我只要继续做我现在做的事情，情况会好的。让我继续给那个女神修电脑，女神总会到我身边的！” 
 
 !["Way to leave 'the hood' behind, asshole. New house or not, you'll always be white trash!"](http://i.crackedcdn.com/phpimages/article/6/8/4/157684_v1.jpg)
 
-*认为改善生活的行为总会让你失去自我e 
+* 认为改善生活的行为总会让你失去自我e 
 “哦，那么你是让我扔掉所有的漫画书。天天去健身房6小时？因为除此之外我没选择了？” 
 
 
