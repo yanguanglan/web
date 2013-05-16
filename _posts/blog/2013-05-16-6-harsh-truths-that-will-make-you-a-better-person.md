@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 六个可以让你变得更强大的残酷事实
+title: 六个可以让你变得更
 description: 社会就是需求社会，如果你给不了需求，那就是残酷的事实。
 category: blog
 ---
@@ -185,22 +185,27 @@ category: blog
 所以，到现在，你们中的许多人一边读这篇文章，一边会感觉到大脑在不断提供排斥这篇文章的理由。从经验上说，这些想法通常是： 
 
 * 有意将任何批评理解为侮辱e
+
 “他凭什么说我又懒又没用？一个善良的人从来不会这样对我说话！作者写这些东西只不过是想显示自己有多么优越，让我这个loser对自己生活不满罢了！等我回复更损人的话给你！” 
 
 ![When you get to where I am in life, you feel free to give me advice! Until then, you're nothing but meat and guesses."](http://i.crackedcdn.com/phpimages/article/6/8/2/157682_v1.jpg)
 
 * 对人不对事e 
+
 “这人有什么资格告诉我怎么活？他自以为自己了不起吧？不过是网上的一个白痴写手罢了！我要去人肉他，看他有什么丑事可以抖出来。这人真自以为是，让我作呕” 
 
 * 只看语气，不看内容e 
+
 “我会仔细看你的文章，找出一句话，断章取义只讨论那个。” 
 
 * 不断修饰你的过去e 
+
 “事情没那么糟糕。确实我上个月还想自杀呢，但现在我感觉好多了！也许我只要继续做我现在做的事情，情况会好的。让我继续给那个女神修电脑，女神总会到我身边的！” 
 
 !["Way to leave 'the hood' behind, asshole. New house or not, you'll always be white trash!"](http://i.crackedcdn.com/phpimages/article/6/8/4/157684_v1.jpg)
 
 * 认为改善生活的行为总会让你失去自我e 
+
 “哦，那么你是让我扔掉所有的漫画书。天天去健身房6小时？因为除此之外我没选择了？” 
 
 
