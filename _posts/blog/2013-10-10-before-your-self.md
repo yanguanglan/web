@@ -4,6 +4,7 @@ title: 从前的你
 description: 长大了，有没有回头看看从前的你，找回天性。
 category: blog
 ---
+![Before your self]({{ site.production_url }}/images/blog/before-your-self.jpg)
 ## 自在的感觉
 
 有没有这样一种感觉。
