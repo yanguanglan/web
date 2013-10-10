@@ -4,7 +4,7 @@ title: 从前的你
 description: 长大了，有没有回头看看从前的你，找回天性。
 category: blog
 ---
-![从前的你]({{ site.production_url }}/images/blog/before_your_self.jpg)
+![从前的你](http://lanyg.com/images/blog/before_your_self.jpg)
 
 ## 自在的感觉
    10/10
